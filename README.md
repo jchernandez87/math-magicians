@@ -66,8 +66,6 @@ This is my first react project. In this project I will build a calculator and le
 * [REACT](https://reactjs.org/)                              
 * [JS](https://www.javascript.com/)
 
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-
 ## Authors
 
 👤 **Juan Carlos Hernandez**
