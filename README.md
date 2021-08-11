@@ -146,6 +146,6 @@ Project Link: [https://github.com/jchernandez87/Math-Magicians](https://github.c
 [issues-url]: https://github.com/jchernandez87/Math-Magicians/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/juan-carlos-hernandez-200a05175
-[product-screenshot]: https://user-images.githubusercontent.com/44485810/128893559-a6cf838c-9863-47ca-bd26-281b960cb190.png
+[product-screenshot]: https://user-images.githubusercontent.com/44485810/129104037-1b866b9f-26f0-4abb-9e9d-1f7cfce0f937.png
 
 
