@@ -15,7 +15,7 @@
   <h3 align="center">Math-Magicians</h3>
 
   <p align="center">
-    A alculator project with react and javascript.
+    Calculator project with react and javascript.
     <br />
     <a href="https://github.com/jchernandez87/Math-Magicians"><strong>Explore the docs »</strong></a>
     <br />
