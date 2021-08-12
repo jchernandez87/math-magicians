@@ -1,13 +1,21 @@
-/* eslint-disable no-unused-vars */
-import './App.css';
+/* eslint-disable class-methods-use-this */
+import React from 'react';
 import Calculator from './components/Calculator';
+import './App.css';
 
-function App() {
-  return (
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
+
+  render() {
+    return (
     <div className="App">
       <Calculator />
     </div>
-  );
+    );
+  }
 }
 
 export default App;

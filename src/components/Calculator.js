@@ -1,10 +1,8 @@
-/* eslint-disable linebreak-style */
 /* eslint-disable class-methods-use-this */
-/* eslint-disable no-unused-vars */
-import React, { Component } from 'react';
+import React from 'react';
 import './Calculator.css';
 
-class Calculator extends Component {
+class Calculator extends React.Component {
   render() {
     return (
       <div className='mainContainer'>
