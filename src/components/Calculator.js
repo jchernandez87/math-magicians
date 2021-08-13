@@ -24,7 +24,7 @@ class Calculator extends Component {
     return (
       <div className="mainContainer">
         <div className="gridContainer">
-          <div className="result">{`${total === null ? '' : total} ${operation === null ? '' : operation} ${next === null ? '' : next} ` }</div>
+          <div className="result">{`${total === null ? '' : total} ${operation === null ? '' : operation} ${next === null ? '' : next}`}</div>
           <button onClick={this.handleClick} type="button" name="AC" className="itemA">AC</button>
           <button onClick={this.handleClick} type="button" name="+/-" className="itemB">+/-</button>
           <button onClick={this.handleClick} type="button" name="%" className="itemC">%</button>
