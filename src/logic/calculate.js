@@ -49,9 +49,9 @@ export default function calculate(obj, buttonName) {
   if (buttonName === '.') {
     if (obj.next) {
       if (obj.next.includes('.')) {
-        return { ...obj };
+        return {};
       }
-      return { ...obj, next: `${obj.next}.` };
+      return { next: `${obj.next}.` };
     }
     if (obj.operation) {
       return { next: '0.' };
@@ -97,13 +97,13 @@ export default function calculate(obj, buttonName) {
 
   // User pressed an operation after pressing '='
   if (!obj.next && obj.total && !obj.operation) {
-    return { ...obj, operation: buttonName };
+    return { operation: buttonName };
   }
 
   // User pressed an operation button and there is an existing operation
   if (obj.operation) {
     if (obj.total && !obj.next) {
-      return { ...obj, operation: buttonName };
+      return { operation: buttonName };
     }
 
     return {
