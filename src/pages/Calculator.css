@@ -1,0 +1,7 @@
+.calculator {
+  margin-top: 44px;
+  padding: 38px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
