@@ -20,7 +20,7 @@
     <a href="https://github.com/jchernandez87/Math-Magicians"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://jchernandez87.github.io/Math-Magicians"">Live Demo</a>
+    <a href="https://condescending-perlman-3f054f.netlify.app/">Live Demo</a>
     ·
     <a href="https://github.com/jchernandez87/Math-Magicians"/issues">Report Bug</a>
     ·
